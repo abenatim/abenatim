@@ -1,3 +1,3 @@
 # ☕ Hi there!
 
-<p align="center"> <img src="new.png" height="500px"/></p>
+<p align="center"> <img src="badiou.png" height="500px"/></p>
