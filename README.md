@@ -1,6 +1,3 @@
-<center>
-<h1> ☕ </h1>
-</center>
-
+# ☕ Hi there!
 
 <p align="center"> <img src="alpha.png" height="300px"/></p>
